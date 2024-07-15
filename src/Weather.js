@@ -51,3 +51,10 @@ export default function Search() {
     return form;
   }
 }
+
+<p>
+  This project is hosted on
+  <a href="https://github.com/palesankehli/react-weather-homework-week-3">
+    Github
+  </a>
+</p>;
